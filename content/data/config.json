@@ -64,7 +64,8 @@
                 "label": "Contact",
                 "url": "mailto:snbhowmikac@gmail.com",
                 "altText": "",
-                "showIcon": true
+                "showIcon": true,
+                "icon": "mail"
             },
             {
                 "type": "Link",
