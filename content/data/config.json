@@ -43,7 +43,7 @@
             {
                 "type": "Social",
                 "label": "Reddit",
-                "altText": "",
+                "altText": "Reddit",
                 "url": "https://www.reddit.com/user/snbhowmik/",
                 "icon": "reddit",
                 "elementId": ""
