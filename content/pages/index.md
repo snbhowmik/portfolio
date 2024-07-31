@@ -47,6 +47,8 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
+    text: |
+      Hello, My name is Subir Nath Bhowmik
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
