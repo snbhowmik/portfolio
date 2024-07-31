@@ -4,7 +4,7 @@
     "header": {
         "type": "Header",
         "headerVariant": "variant-c",
-        "isSticky": true,
+        "isSticky": false,
         "title": "SNBHOWMIK",
         "isTitleVisible": true,
         "primaryLinks": [
@@ -24,7 +24,7 @@
                 "type": "Social",
                 "altText": "GitHub",
                 "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
+                "url": "https://github.com/snbhowmik",
                 "icon": "github"
             },
             {
@@ -62,8 +62,11 @@
             {
                 "type": "Link",
                 "label": "Contact",
-                "url": "mailto:thisismyemail.@myemail.me",
-                "altText": ""
+                "url": "mailto:snbhowmikac@gmail.com",
+                "altText": "",
+                "showIcon": false,
+                "icon": "mail",
+                "iconPosition": "left"
             },
             {
                 "type": "Link",
