@@ -39,6 +39,14 @@
                 "url": "https://www.linekdin.com/in/snbhowmik",
                 "icon": "linkedin",
                 "elementId": ""
+            },
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "https://www.reddit.com/user/snbhowmik/",
+                "icon": "reddit",
+                "elementId": ""
             }
         ],
         "styles": {
