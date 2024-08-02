@@ -192,26 +192,15 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: |-
-          **Current**
+        text: |+
+          **August 2024**
 
-          * freelance @freelance.me
+          *   Intern at Pinnacle Labs
 
-          **2018-2021**
+          **July 2024**
 
-          * fullstack at this startup
+          *   Intern at Prodigy Infotech
 
-          **2015**
-
-          * senior front-end at this place
-
-          **2013**
-
-          * intern developer at a big company
-
-          **2011**
-
-          * flipping burgers
         styles:
           self:
             textAlign: left
