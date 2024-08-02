@@ -1,0 +1,14 @@
+{
+    "type": "Person",
+    "firstName": "Subir",
+    "lastName": "Nath Bhowmik",
+    "role": "Student",
+    "bio": "A an aspiring Cyber Security Student getting hands on experience to get industry ready.\n",
+    "image": {
+        "type": "ImageBlock",
+        "url": "https://assets.stackbit.com/components/images/default/default-person.png",
+        "altText": "Person photo",
+        "caption": "Caption of the image",
+        "elementId": ""
+    }
+}
