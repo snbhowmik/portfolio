@@ -72,7 +72,7 @@ sections:
         actions:
           - type: Link
             label: Reddit
-            url: 'https://twitter.com/'
+            url: 'https://reddit.com/u/snbhowmik'
             altText: Reddit
         styles:
           self:
