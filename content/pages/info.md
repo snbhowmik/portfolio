@@ -216,7 +216,7 @@ sections:
       - type: FeaturedItem
         subtitle: 'Education:'
         text: >+
-          #### August 2024 - Present
+          ##### **August 2024 - Present**
 
 
           ###### SRM Institute of Technology
@@ -226,7 +226,7 @@ sections:
           Cyber Security
 
 
-          #### 2011 - 2023
+          ##### **2011 - 2023**
 
 
           ###### Bharatiya Vidya Bhavan
