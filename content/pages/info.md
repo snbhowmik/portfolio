@@ -42,6 +42,7 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
+    title: I am Subir Nath Bhowmik
   - type: DividerSection
     styles:
       self:
