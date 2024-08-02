@@ -90,7 +90,7 @@ sections:
         actions:
           - type: Link
             label: Discord
-            url: 'https://discord.com/'
+            url: 'https://discordapp.com/users/'
         styles:
           self:
             textAlign: left
