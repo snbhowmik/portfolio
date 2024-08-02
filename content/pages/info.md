@@ -144,7 +144,7 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: WEB Dev
+        label: Web Dev
       - type: Label
         label: React
       - type: Label
