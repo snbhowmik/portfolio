@@ -41,6 +41,9 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     title: I am Subir Nath Bhowmik
+    subtitle: >-
+      A CyberSecurity Student and aspiring Developer. Currrently honing my
+      skills to get industry ready.
   - type: DividerSection
     styles:
       self:
