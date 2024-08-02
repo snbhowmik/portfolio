@@ -156,7 +156,7 @@ sections:
       - type: Label
         label: C++
       - type: Label
-        label: Swift
+        label: ''
   - type: DividerSection
     styles:
       self:
