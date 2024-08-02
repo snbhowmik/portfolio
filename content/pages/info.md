@@ -146,7 +146,7 @@ sections:
       - type: Label
         label: Web Dev
       - type: Label
-        label: React
+        label: Python
       - type: Label
         label: Microsoft Office
       - type: Label
