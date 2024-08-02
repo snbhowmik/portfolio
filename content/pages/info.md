@@ -64,6 +64,7 @@ sections:
           - type: Link
             label: GitHub
             url: 'https://github.com/'
+            altText: Github
         styles:
           self:
             textAlign: left
