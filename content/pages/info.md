@@ -13,15 +13,9 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
-    media:
-      type: ImageBlock
-      url: /images/about.jpg
-      altText: Hero image
+    text: |+
+
+
     styles:
       self:
         height: auto
@@ -46,65 +40,10 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
-        borderStyle: solid
-  - type: MediaGallerySection
-    colors: colors-f
-    subtitle: 'I worked with these folks:'
-    images:
-      - type: ImageBlock
-        url: /images/logo1.svg
-        altText: Logo one
-        caption: Logo one
-      - type: ImageBlock
-        url: /images/logo2.svg
-        altText: Logo two
-        caption: Logo two
-      - type: ImageBlock
-        url: /images/logo3.svg
-        altText: Logo three
-        caption: Logo three
-      - type: ImageBlock
-        url: /images/logo4.svg
-        altText: Logo four
-        caption: Logo four
-      - type: ImageBlock
-        url: /images/logo5.svg
-        altText: Logo five
-        caption: Logo five
-    spacing: 3
-    columns: 5
-    aspectRatio: auto
-    showCaption: false
-    enableHover: false
-    styles:
-      self:
-        width: wide
-        height: auto
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
+    title: I am Subir Nath Bhowmik
+    subtitle: >-
+      A CyberSecurity Student and aspiring Developer. Currrently honing my
+      skills to get industry ready.
   - type: DividerSection
     styles:
       self:
@@ -124,15 +63,17 @@ sections:
         actions:
           - type: Link
             label: GitHub
-            url: 'https://github.com/'
+            url: 'https://github.com/snbhowmik'
+            altText: Github
         styles:
           self:
             textAlign: left
       - type: FeaturedItem
         actions:
           - type: Link
-            label: Twitter
-            url: 'https://twitter.com/'
+            label: Reddit
+            url: 'https://www.reddit.com/user/snbhowmik/'
+            altText: Reddit
         styles:
           self:
             textAlign: left
@@ -140,15 +81,8 @@ sections:
         actions:
           - type: Link
             label: LinkedIn
-            url: 'https://www.linkedin.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: CodePen
-            url: 'https://codepen.io/'
+            url: 'https://www.linkedin.com/in/snbhowmik'
+            altText: Linkedin
         styles:
           self:
             textAlign: left
@@ -156,15 +90,18 @@ sections:
         actions:
           - type: Link
             label: Discord
-            url: 'https://discord.com/'
+            url: 'https://discordapp.com/users/800623129943605278'
+            altText: Discord
         styles:
           self:
             textAlign: left
       - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Instagram
-            url: 'https://www.instagram.com/'
+        actions: []
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        actions: []
         styles:
           self:
             textAlign: left
@@ -207,21 +144,19 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: Web Dev
       - type: Label
-        label: React
+        label: Python
       - type: Label
         label: Microsoft Office
       - type: Label
-        label: Next.js
-      - type: Label
-        label: Netlify
+        label: CyberSecurity
       - type: Label
         label: Pancakes
       - type: Label
-        label: C++
+        label: ''
       - type: Label
-        label: Swift
+        label: ''
   - type: DividerSection
     styles:
       self:
@@ -239,7 +174,7 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
+      [snbhowmikac@gmail.com](snbhowmikac@gmail.com)
   - type: DividerSection
     styles:
       self:
@@ -257,26 +192,19 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: |-
-          **Current**
+        text: |+
+          ##### **August 2024**
 
-          * freelance @freelance.me
+          ###### Pinnacle Labs
 
-          **2018-2021**
+          *   Cyber Security Intern
 
-          * fullstack at this startup
+          ##### **July 2024**
 
-          **2015**
+          ###### Prodigy Infotech
 
-          * senior front-end at this place
+          *   Student Intern
 
-          **2013**
-
-          * intern developer at a big company
-
-          **2011**
-
-          * flipping burgers
         styles:
           self:
             textAlign: left
@@ -287,18 +215,25 @@ sections:
               - pr-0
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |-
-          **2015-2018**
+        text: >+
+          ##### **August 2024 - Present**
 
-          * ba computer sciense at a semi fancy school
 
-          **2014**
+          ###### SRM Institute of Technology
 
-          * react certificate somewhere
 
-          **2011**
+          *   B.Tech Computer Science and Engineering with specialisation in
+          Cyber Security
 
-          * my highschool
+
+          ##### **2011 - 2023**
+
+
+          ###### Bharatiya Vidya Bhavan
+
+
+          *   Primary to High School Diploma
+
         styles:
           self:
             textAlign: left
@@ -381,11 +316,6 @@ sections:
           isRequired: true
           width: full
           type: TextareaFormControl
-        - name: updatesConsent
-          label: Sign me up to recieve my words
-          isRequired: false
-          width: full
-          type: CheckboxFormControl
       submitLabel: "Submit \U0001F680"
       styles:
         submitLabel:
