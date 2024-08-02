@@ -91,6 +91,7 @@ sections:
           - type: Link
             label: Discord
             url: 'https://discordapp.com/users/800623129943605278'
+            altText: Discord
         styles:
           self:
             textAlign: left
