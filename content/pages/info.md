@@ -71,7 +71,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: Twitter
+            label: Reddit
             url: 'https://twitter.com/'
         styles:
           self:
