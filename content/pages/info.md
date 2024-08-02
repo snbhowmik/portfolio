@@ -82,6 +82,7 @@ sections:
           - type: Link
             label: LinkedIn
             url: 'https://www.linkedin.com/in/snbhowmik'
+            altText: Linkedin
         styles:
           self:
             textAlign: left
