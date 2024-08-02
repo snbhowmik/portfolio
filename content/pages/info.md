@@ -212,17 +212,21 @@ sections:
       - type: FeaturedItem
         subtitle: 'Education:'
         text: >+
-          **August 2024 - Present**
+          **August 2024 - Present
+
+          **SRM Institute of Technology
 
 
-          *   B.Tech Computer Science and Engineering at SRM Institute of
-          Technology
+          *   B.Tech Computer Science and Engineering with specialisation in
+          Cyber Security
 
 
-          **2011 - 2023**
+          **2011 - 2023
+
+          **Bharatiya Vidya Bhavan
 
 
-          *   Primary to High School Diploma from Bharatiya Vidya Bhavan
+          *   Primary to High School Diploma
 
         styles:
           self:
