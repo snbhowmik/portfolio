@@ -73,6 +73,7 @@ sections:
           - type: Link
             label: Reddit
             url: 'https://twitter.com/'
+            altText: Reddit
         styles:
           self:
             textAlign: left
