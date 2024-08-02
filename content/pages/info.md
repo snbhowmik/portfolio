@@ -174,7 +174,7 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [snbowmikac@gmail.com](snbhowmikac@gmail.com)
+      [snbhowmikac@gmail.com](snbhowmikac@gmail.com)
   - type: DividerSection
     styles:
       self:
