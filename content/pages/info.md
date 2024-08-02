@@ -195,13 +195,13 @@ sections:
         text: |+
           ##### **August 2024**
 
-          Pinnacle Labs
+          ###### Pinnacle Labs
 
           *   Cyber Security Intern
 
           ##### **July 2024**
 
-          Prodigy Infotech
+          ###### Prodigy Infotech
 
           *   Student Intern
 
