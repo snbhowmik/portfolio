@@ -211,18 +211,19 @@ sections:
               - pr-0
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |-
-          **2015-2018**
+        text: >+
+          **August 2024 - Present**
 
-          * ba computer sciense at a semi fancy school
 
-          **2014**
+          *   B.Tech Computer Science and Engineering at SRM Institute of
+          Technology
 
-          * react certificate somewhere
 
-          **2011**
+          **2011 - 2023**
 
-          * my highschool
+
+          *   Primary to High School Diploma from Bharatiya Vidya Bhavan
+
         styles:
           self:
             textAlign: left
