@@ -193,13 +193,17 @@ sections:
       - type: FeaturedItem
         subtitle: 'Experience:'
         text: |+
-          **August 2024**
+          ##### **August 2024**
 
-          *   Intern at Pinnacle Labs
+          Pinnacle Labs
 
-          **July 2024**
+          *   Cyber Security Intern
 
-          *   Intern at Prodigy Infotech
+          ##### **July 2024**
+
+          Prodigy Infotech
+
+          *   Student Intern
 
         styles:
           self:
